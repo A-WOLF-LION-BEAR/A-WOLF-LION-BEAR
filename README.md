@@ -1,6 +1,6 @@
-## Hello dude worm!
+## Hello dude-worm!
 
-- test
+- текст
 - амжумания
 
 ![pic_1](./files/guitar-cat.gif)
