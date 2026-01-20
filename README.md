@@ -1,7 +1,11 @@
 ## Hello dude-worm!
 
-- текст
+- вставьте текст
 - амжумания
+
+<div align="center">
+  <img src="./files/fall.gif" height="600" width="220"/>
+</div>
 
 <div align="center">
   <img src="./files/guitar-cat.gif" height="600" width="220"/>
